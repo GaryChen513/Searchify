@@ -38,8 +38,8 @@ The following list of requirements were derived from the project brief and consi
 
 ## Links:
 
-1. Deployed : https://travis297.github.io/Searchify/
-2. GitHub repo: https://github.com/Travis297/Searchify
+1. Deployed : https://garychen513.github.io/Searchify/.
+2. GitHub repo: https://github.com/garychen513/Searchify
 ---
 
 ## Screenshots of the app:
